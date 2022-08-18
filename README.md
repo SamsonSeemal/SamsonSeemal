@@ -1,3 +1,4 @@
+<img align="center" alt="Coding"   src="https://miro.medium.com/max/958/1*4wegXpj8GRtTeZopHbMKeA.jpeg">
 
 <h1 align="center">Hi 👋, I'm Samson Seemal</h1>
 <h3 align="center">A passionate Java Backend Developer.</h3>
