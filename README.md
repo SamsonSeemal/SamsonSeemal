@@ -32,9 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsonseemal&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsonseemal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsonseemal&langs_count=8&count_private=true&layout=comapct&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonseemal&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonseemal&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>
 
 
 [![SamsonSeemal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamsonSeemal&theme=react-dark)](https://github.com/SamsonSeemal/github-readme-activity-graph)
