@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **samsonseemal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1yhMW_pCU728h8nUEAYDNWjp4cfXDWzK3](https://drive.google.com/drive/folders/1yhMW_pCU728h8nUEAYDNWjp4cfXDWzK3)
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
