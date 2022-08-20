@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://samsonseemalportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://samsonseemal.netlify.app/)
 
 
 - 💬 Ask me about **JAVA, Spring Boot, Spring Frameworks, HTML, Data Structure and Algorithms, CSS, JavaScript**
