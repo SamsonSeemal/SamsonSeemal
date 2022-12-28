@@ -2,30 +2,22 @@
 <h1 align="center">Hi 👋, I'm Samson Seemal</h1>
 <h3 align="center">A passionate Java Backend Developer.</h3>
 
-<!-- <img align="right" height="400" width="420" src="https://camo.githubusercontent.com/7f60e7e90bf365a72293499929fb13b91b34b52440685be8c21fa900e9d19b86/68747470733a2f2f6c797368746563686e6f6c6f67792e636f6d2f61646d696e2f6173736574732f696d672f616e696d6174696f6e5f696d616765732f646576656c6f7065722e676966"> -->
-
-<p align="left"> <img src="68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="samsonseemal" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/samson_seemal" target="blank"><img src="https://img.shields.io/twitter/follow/samson_seemal?logo=twitter&style=for-the-badge" alt="samson_seemal" /></a> </p>
-
 - 🔭 I’m currently pursuing **JAVA Backend**
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://samsonseemal.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://samsonseemal.github.io/)
 
 
 - 💬 Ask me about **JAVA, Spring Boot, Spring Frameworks, HTML, Data Structure and Algorithms, CSS, JavaScript**
 
 - 📫 How to reach me **samsonseemal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17mEF6JuNsc4f4z7uZtet-dJNQnpDpqUb/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1yhMW_pCU728h8nUEAYDNWjp4cfXDWzK3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samson_seemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samson_seemal" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/samson-seemal-773637204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samson-seemal-773637204/" height="30" width="40" /></a>
 <a href="https://medium.com/@samsonseemal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samsonseemal" height="30" width="40" /></a>
 </p>
