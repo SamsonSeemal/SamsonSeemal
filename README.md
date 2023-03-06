@@ -1,7 +1,12 @@
  <img src="https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966"/>
  
 <h1 align="center">Hi 👋, I'm Samson Seemal</h1>
-<h3 align="center">A passionate Java Backend Developer.</h3>
+<h3 align="center">Observant and detail-oriented full-stack
+developer with a specialization in the JAVA
+backend. Self-motivated and curious, with a keen
+interest in building user-centric products. Looking
+forward to honing my skills in a challenging work
+environment.</h3>
 
 - 🔭 I’m currently pursuing **JAVA Backend**
 
@@ -33,4 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonseemal&&langs_count=8&count_private=true&layout=en&theme=react&hide_border=true&bg_color=0D1117"/></p>
 
 
-[![SamsonSeemal's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamsonSeemal&theme=react-dark)](https://github.com/SamsonSeemal/github-readme-activity-graph)
+[![SamsonSeemal's github activity graph](https://github-readme-activity-graph.cyclic.app//graph?username=SamsonSeemal&theme=react-dark)](https://github.com/SamsonSeemal/github-readme-activity-graph)
